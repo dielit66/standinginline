@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871865595779",
+    "project_id": "standing-in-line",
+    "storage_bucket": "standing-in-line.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871865595779:android:e5061fcf7994be8262a8b6",
+        "android_client_info": {
+          "package_name": "com.standing.in.line"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByvYSwU_Tu3zZfA5BsPon5Dr_-iUTrOiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
